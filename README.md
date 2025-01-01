@@ -1,9 +1,10 @@
-# Helium Radsecproxy Setup
+ Helium Radsecproxy Setup
 
-# Adapted from orion-radsec. 
-# Special thanks to Doris for personally assisting. Shout out to Simeononsecurity, which has many useful related documents and repos.
-
-# This config will change in the future based on Nova Labs certificate modifications and carrier offload additions.
+ Adapted from orion-radsec. 
+ Special thanks to Doris for personally assisting. Shout out to Simeononsecurity, which has many useful related documents and repos.
+ 
+ 
+ This config will change in the future based on Nova Labs certificate modifications and carrier offload additions.
 
 Changed setup script to remove docker install due to errors. Docker must be installed prior to running setup script. Use official setup script below.
 
