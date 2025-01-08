@@ -31,7 +31,7 @@ Make setup.sh and run.sh executuble, run setup script. This is only required dur
 ```
 chmod +x helium-radsec/setup_scripts/setup.sh
 chmod +x helium-radsec/run.sh
-helium-radsec/setup_scripts/setup.sh
+bash helium-radsec/setup_scripts/setup.sh
 ```
 
 ### Start helium-radsec service
